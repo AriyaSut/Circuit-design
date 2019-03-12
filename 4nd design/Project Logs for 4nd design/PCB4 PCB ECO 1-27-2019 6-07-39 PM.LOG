@@ -1,0 +1,29 @@
+Removed Member From Class: ClassName=Step-Up Converter Member=R5
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=R3 NewDesignator=Rsc
+Added Component: Designator=Co(CC2012-0805)
+Added Component: Designator=D1(D1N40XX)
+Added Component: Designator=L1(PCBComponent_1)
+Added Component: Designator=R2(CC2012-0805)
+Added Component: Designator=Rp(VR_MUL-V)
+Added Pin To Net: NetName=GND Pin=Co-1
+Added Pin To Net: NetName=NetR3_2 Pin=L1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R2-2
+Change Net Name : Old Net Name=NetC?_2 New Net Name=VIN_5V
+Change Net Name : Old Net Name=NetR3_2 New Net Name=NetL1_2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=L1-1
+Added Pin To Net: NetName=NetD1_2 Pin=U?-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=Rp-1
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=VOUT_19V Pin=Co-2
+Added Pin To Net: NetName=VOUT_19V Pin=D1-1
+Added Pin To Net: NetName=VOUT_19V Pin=Rp-3
+Added Net: Name=VOUT_19V
+Added Member To Class: ClassName=Step-Up Converter Member=Component Co Cap-NP
+Added Member To Class: ClassName=Step-Up Converter Member=Component D1 DIODE
+Added Member To Class: ClassName=Step-Up Converter Member=Component L1 170uH
+Added Member To Class: ClassName=Step-Up Converter Member=Component R2 Res
+Added Member To Class: ClassName=Step-Up Converter Member=Component Rp RPot

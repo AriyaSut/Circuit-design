@@ -1,0 +1,8 @@
+Added Component: Designator=E?(PIN1)
+Added Component: Designator=Q?(SOT-23B_N)
+Added Component: Designator=R2(CC2012-0805)
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=R2-1
+Added Net: Name=NetQ?_1
+Added Class: Name=4nd design
+Added Room: Name=4nd design

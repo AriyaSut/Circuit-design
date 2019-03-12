@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NetCo_2 Pin=Rp-3
+Added Pin To Net: NetName=NetCo_2 Pin=Rp-2
+Added Room: Name=Step-Up Converter

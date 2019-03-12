@@ -1,0 +1,162 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=5V Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=5V Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=5V Pin=C3-1
+Removed Pin From Net: NetName=NetC3_1 Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=NetC3_1 Pin=DG1B-1
+Removed Pin From Net: NetName=GND Pin=R1-1
+Removed Pin From Net: NetName=NetNPN1_2 Pin=R1-1
+Removed Pin From Net: NetName=RDY Pin=R1-1
+Removed Pin From Net: NetName=NetNPN1_1 Pin=R2-1
+Removed Pin From Net: NetName=GND Pin=R4-1
+Removed Pin From Net: NetName=NetL?_2 Pin=R4-2
+Removed Pin From Net: NetName=MISO Pin=R5-2
+Removed Member From Class: ClassName=Step-Up Converter Member=C1
+Removed Member From Class: ClassName=Step-Up Converter Member=C2
+Removed Member From Class: ClassName=Step-Up Converter Member=C3
+Removed Member From Class: ClassName=4nd design Member=DG1B
+Removed Member From Class: ClassName=4nd design Member=P?
+Removed Member From Class: ClassName=Step-Up Converter Member=R1
+Removed Member From Class: ClassName=Step-Up Converter Member=R2
+Removed Member From Class: ClassName=Step-Up Converter Member=R4
+Change Component Designator: OldDesignator=L? NewDesignator=L
+Added Component: Designator=CD1(CC2012-0805)
+Added Component: Designator=CD2(CC2012-0805)
+Added Component: Designator=CD3(CC2012-0805)
+Added Component: Designator=CD4(CC2012-0805)
+Added Component: Designator=CD5(CC2012-0805)
+Added Component: Designator=Cs1(CC2012-0805)
+Added Component: Designator=Cs2(CC2012-0805)
+Added Component: Designator=Cs3(CC2012-0805)
+Added Component: Designator=H1(HDR1X2)
+Added Component: Designator=H2(HDR1X2)
+Added Component: Designator=HD1(HDR1X2)
+Added Component: Designator=HD2(HDR1X2)
+Added Component: Designator=logicCh(HDR2X8_CEN)
+Added Component: Designator=outCh(HDR2X8_CEN)
+Added Component: Designator=P1(HDR1X7)
+Added Component: Designator=P2(HDR1X2)
+Added Component: Designator=RD1(CC2012-0805)
+Added Component: Designator=RD2(CC2012-0805)
+Added Component: Designator=Rs1(CC2012-0805)
+Added Component: Designator=Rs2(CC2012-0805)
+Added Component: Designator=Rs4(CC2012-0805)
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=CD1-2
+Added Pin To Net: NetName=GND Pin=CD2-2
+Added Pin To Net: NetName=GND Pin=CD3-1
+Added Pin To Net: NetName=GND Pin=CD4-1
+Added Pin To Net: NetName=GND Pin=CD5-1
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=5V Pin=C1-2
+Added Pin To Net: NetName=5V Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=5V Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=NetC3_1 Pin=H1-1
+Added Pin To Net: NetName=GND Pin=NPN2-3
+Added Pin To Net: NetName=MOSI Pin=P1-1
+Added Pin To Net: NetName=CLK Pin=P1-2
+Added Pin To Net: NetName=CS Pin=P1-3
+Added Pin To Net: NetName=MISO Pin=P1-4
+Added Pin To Net: NetName=RDY Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-7
+Added Pin To Net: NetName=5V Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=NetNPN1_2 Pin=R1-1
+Added Pin To Net: NetName=NetNPN1_1 Pin=R2-1
+Added Pin To Net: NetName=5V Pin=R2-2
+Added Pin To Net: NetName=5V Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=RDY Pin=RD1-1
+Added Pin To Net: NetName=MISO Pin=RD2-2
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=NetL?_2 Pin=R4-2
+Change Net Name : Old Net Name=19V New Net Name=NetCo_2
+Change Net Name : Old Net Name=NetL?_2 New Net Name=NetL_2
+Added Pin To Net: NetName=3V Pin=CD1-1
+Added Pin To Net: NetName=3V Pin=CD2-1
+Added Pin To Net: NetName=3V Pin=P1-6
+Added Pin To Net: NetName=3V Pin=RD1-2
+Added Pin To Net: NetName=3V Pin=RD2-1
+Added Pin To Net: NetName=3V Pin=U3-1
+Added Pin To Net: NetName=3V Pin=U3-8
+Added Net: Name=3V
+Added Pin To Net: NetName=19V Pin=CD5-2
+Added Pin To Net: NetName=19V Pin=U3-6
+Added Net: Name=19V
+Added Pin To Net: NetName=LOGICCH1 Pin=C1-1
+Added Pin To Net: NetName=LOGICCH1 Pin=C2-1
+Added Pin To Net: NetName=LOGICCH1 Pin=logicCh-1
+Added Pin To Net: NetName=LOGICCH1 Pin=R1-2
+Added Net: Name=LOGICCH1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=H2-1
+Added Pin To Net: NetName=NetC3_2 Pin=R4-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetCD3_2 Pin=CD3-2
+Added Pin To Net: NetName=NetCD3_2 Pin=U3-7
+Added Net: Name=NetCD3_2
+Added Pin To Net: NetName=NetH1_2 Pin=H1-2
+Added Pin To Net: NetName=NetH1_2 Pin=NPN3-3
+Added Net: Name=NetH1_2
+Added Pin To Net: NetName=NetH2_2 Pin=H2-2
+Added Pin To Net: NetName=NetH2_2 Pin=outCh-16
+Added Net: Name=NetH2_2
+Added Pin To Net: NetName=NetHD1_1 Pin=HD1-1
+Added Pin To Net: NetName=NetHD1_1 Pin=U3-5
+Added Net: Name=NetHD1_1
+Added Pin To Net: NetName=NetHD2_1 Pin=HD2-1
+Added Pin To Net: NetName=NetHD2_1 Pin=U3-4
+Added Net: Name=NetHD2_1
+Added Pin To Net: NetName=NetNPN3_1 Pin=NPN3-1
+Added Net: Name=NetNPN3_1
+Added Pin To Net: NetName=NetRp_1 Pin=Rp-1
+Added Pin To Net: NetName=NetRp_1 Pin=R2-1
+Added Net: Name=NetRp_1
+Added Pin To Net: NetName=NetRs1_2 Pin=R1-2
+Added Pin To Net: NetName=NetRs1_2 Pin=R2-2
+Added Pin To Net: NetName=NetRs1_2 Pin=U?-5
+Added Net: Name=NetRs1_2
+Added Pin To Net: NetName=NetRs4_1 Pin=R4-1
+Added Pin To Net: NetName=NetRs4_1 Pin=U?-8
+Added Net: Name=NetRs4_1
+Added Pin To Net: NetName=RIN Pin=HD1-2
+Added Pin To Net: NetName=RIN Pin=NPN1-3
+Added Net: Name=RIN
+Added Pin To Net: NetName=ROUT Pin=HD2-2
+Added Pin To Net: NetName=ROUT Pin=NPN2-1
+Added Pin To Net: NetName=ROUT Pin=NPN2-2
+Added Pin To Net: NetName=ROUT Pin=NPN3-2
+Added Net: Name=ROUT
+Added Member To Class: ClassName=4nd design Member=Component CD1 Cap-NP
+Added Member To Class: ClassName=4nd design Member=Component CD2 Cap-NP
+Added Member To Class: ClassName=4nd design Member=Component CD3 Cap-NP
+Added Member To Class: ClassName=4nd design Member=Component CD4 Cap-NP
+Added Member To Class: ClassName=4nd design Member=Component CD5 Cap-NP
+Added Member To Class: ClassName=Step-Up Converter Member=Component Cs1 Cap-NP
+Added Member To Class: ClassName=Step-Up Converter Member=Component Cs2 Cap-NP
+Added Member To Class: ClassName=Step-Up Converter Member=Component Cs3 Cap-NP
+Added Member To Class: ClassName=4nd design Member=Component H1 Header 1
+Added Member To Class: ClassName=4nd design Member=Component H2 Header 2
+Added Member To Class: ClassName=4nd design Member=Component HD1
+Added Member To Class: ClassName=4nd design Member=Component HD2
+Added Member To Class: ClassName=4nd design Member=Component logicCh Header 8X2A
+Added Member To Class: ClassName=4nd design Member=Component outCh Header 8X2A
+Added Member To Class: ClassName=4nd design Member=Component P1 Header 7
+Added Member To Class: ClassName=4nd design Member=Component P2 Header 2
+Added Member To Class: ClassName=4nd design Member=Component RD1 Res
+Added Member To Class: ClassName=4nd design Member=Component RD2 Res
+Added Member To Class: ClassName=Step-Up Converter Member=Component Rs1 Res
+Added Member To Class: ClassName=Step-Up Converter Member=Component Rs2 Res
+Added Member To Class: ClassName=Step-Up Converter Member=Component Rs4 Res
+Added Member To Class: ClassName=4nd design Member=Component U3 AD5292BRUZ-100-N

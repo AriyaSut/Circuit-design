@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetD1_2 Pin=L1-1
+Removed Pin From Net: NetName=NetL1_2 Pin=L1-2
+Removed Member From Class: ClassName=Step-Up Converter Member=L1
+Added Component: Designator=L?(PCBComponent_1)
+Added Pin To Net: NetName=NetD1_2 Pin=L?-1
+Added Pin To Net: NetName=NetL1_2 Pin=L?-2
+Change Net Name : Old Net Name=NetL1_2 New Net Name=NetL?_2
+Added Member To Class: ClassName=Step-Up Converter Member=Component L? Component_1

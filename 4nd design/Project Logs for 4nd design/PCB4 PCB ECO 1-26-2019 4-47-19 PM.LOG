@@ -1,0 +1,43 @@
+Added Component: Designator=C?(CC2012-0805)
+Added Component: Designator=Ct(CC2012-0805)
+Added Component: Designator=L?(AXIAL-1.0)
+Added Component: Designator=R1(CC2012-0805)
+Added Component: Designator=R3(CC2012-0805)
+Added Component: Designator=R4(CC2012-0805)
+Added Component: Designator=R5(CC2012-0805)
+Added Component: Designator=U?(DIP8L)
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=Ct-1
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=R3-1
+Added Pin To Net: NetName=NetC?_2 Pin=U?-6
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetCt_2 Pin=Ct-2
+Added Pin To Net: NetName=NetCt_2 Pin=U?-3
+Added Net: Name=NetCt_2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U?-5
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=R4-2
+Added Pin To Net: NetName=NetR3_2 Pin=U?-7
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U?-8
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U?-1
+Added Net: Name=NetR5_2
+Added Member To Class: ClassName=Step-Up Converter Member=Component C? Cap-NP
+Added Member To Class: ClassName=Step-Up Converter Member=Component Ct Cap-NP
+Added Member To Class: ClassName=Step-Up Converter Member=Component L? Inductor Iron Adj
+Added Member To Class: ClassName=Step-Up Converter Member=Component R1 Res
+Added Member To Class: ClassName=Step-Up Converter Member=Component R3 Res
+Added Member To Class: ClassName=Step-Up Converter Member=Component R4 Res
+Added Member To Class: ClassName=Step-Up Converter Member=Component R5 Res
+Added Member To Class: ClassName=Step-Up Converter Member=Component U? DS1307
+Added Room: Name=Step-Up Converter

@@ -1,0 +1,64 @@
+Added Pin To Net: NetName=NetCo_2 Pin=Co-2
+Added Pin To Net: NetName=NetCo_2 Pin=D1-1
+Added Pin To Net: NetName=NetNPN3_1 Pin=NPN3-1
+Added Pin To Net: NetName=NetCo_2 Pin=Rp-2
+Added Pin To Net: NetName=CH2 Pin=outCh-15
+Added Net: Name=CH2
+Added Pin To Net: NetName=CH3 Pin=outCh-14
+Added Net: Name=CH3
+Added Pin To Net: NetName=CH4 Pin=outCh-13
+Added Net: Name=CH4
+Added Pin To Net: NetName=CH5 Pin=outCh-12
+Added Net: Name=CH5
+Added Pin To Net: NetName=CH6 Pin=outCh-11
+Added Net: Name=CH6
+Added Pin To Net: NetName=CH7 Pin=outCh-10
+Added Net: Name=CH7
+Added Pin To Net: NetName=CH8 Pin=outCh-9
+Added Net: Name=CH8
+Added Pin To Net: NetName=CH9 Pin=outCh-1
+Added Net: Name=CH9
+Added Pin To Net: NetName=CH10 Pin=outCh-2
+Added Net: Name=CH10
+Added Pin To Net: NetName=CH11 Pin=outCh-3
+Added Net: Name=CH11
+Added Pin To Net: NetName=CH12 Pin=outCh-4
+Added Net: Name=CH12
+Added Pin To Net: NetName=CH13 Pin=outCh-5
+Added Net: Name=CH13
+Added Pin To Net: NetName=CH14 Pin=outCh-6
+Added Net: Name=CH14
+Added Pin To Net: NetName=CH15 Pin=outCh-7
+Added Net: Name=CH15
+Added Pin To Net: NetName=CH16 Pin=outCh-8
+Added Net: Name=CH16
+Added Pin To Net: NetName=LOGICCH2 Pin=logicCh-2
+Added Net: Name=LOGICCH2
+Added Pin To Net: NetName=LOGICCH3 Pin=logicCh-3
+Added Net: Name=LOGICCH3
+Added Pin To Net: NetName=LOGICCH4 Pin=logicCh-4
+Added Net: Name=LOGICCH4
+Added Pin To Net: NetName=LOGICCH5 Pin=logicCh-5
+Added Net: Name=LOGICCH5
+Added Pin To Net: NetName=LOGICCH6 Pin=logicCh-6
+Added Net: Name=LOGICCH6
+Added Pin To Net: NetName=LOGICCH7 Pin=logicCh-7
+Added Net: Name=LOGICCH7
+Added Pin To Net: NetName=LOGICCH8 Pin=logicCh-8
+Added Net: Name=LOGICCH8
+Added Pin To Net: NetName=LOGICCH9 Pin=logicCh-9
+Added Net: Name=LOGICCH9
+Added Pin To Net: NetName=LOGICCH10 Pin=logicCh-10
+Added Net: Name=LOGICCH10
+Added Pin To Net: NetName=LOGICCH11 Pin=logicCh-11
+Added Net: Name=LOGICCH11
+Added Pin To Net: NetName=LOGICCH12 Pin=logicCh-12
+Added Net: Name=LOGICCH12
+Added Pin To Net: NetName=LOGICCH13 Pin=logicCh-13
+Added Net: Name=LOGICCH13
+Added Pin To Net: NetName=LOGICCH14 Pin=logicCh-14
+Added Net: Name=LOGICCH14
+Added Pin To Net: NetName=LOGICCH15 Pin=logicCh-15
+Added Net: Name=LOGICCH15
+Added Pin To Net: NetName=LOGICCH16 Pin=logicCh-16
+Added Net: Name=LOGICCH16
