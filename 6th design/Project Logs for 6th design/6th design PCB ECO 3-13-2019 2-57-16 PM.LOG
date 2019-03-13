@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=19V Pin=Cd4-2
+Added Pin To Net: NetName=19V Pin=Cd5-2
+Added Pin To Net: NetName=ROUT Pin=Hd2-2
+Added Pin To Net: NetName=19V Pin=U3-6
+Added Room: Name=digipot
+Added Room: Name=step-up

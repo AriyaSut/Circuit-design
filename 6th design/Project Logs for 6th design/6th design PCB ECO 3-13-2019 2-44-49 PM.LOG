@@ -1,0 +1,65 @@
+Added Component: Designator=R2ch1(Panasonic_ERJ-A1BJ1R2U_0)
+Added Component: Designator=R2ch2(Panasonic_ERJ-A1BJ1R2U_0)
+Added Component: Designator=R2ch3(Panasonic_ERJ-A1BJ1R2U_0)
+Added Component: Designator=R2ch4(Panasonic_ERJ-A1BJ1R2U_0)
+Added Component: Designator=R2ch5(Panasonic_ERJ-A1BJ1R2U_0)
+Added Component: Designator=R2ch6(Panasonic_ERJ-A1BJ1R2U_0)
+Added Component: Designator=R2ch7(Panasonic_ERJ-A1BJ1R2U_0)
+Added Component: Designator=R2ch8(Panasonic_ERJ-A1BJ1R2U_0)
+Added Component: Designator=R2ch9(Panasonic_ERJ-A1BJ1R2U_0)
+Added Component: Designator=R2ch10(Panasonic_ERJ-A1BJ1R2U_0)
+Added Component: Designator=R2ch11(Panasonic_ERJ-A1BJ1R2U_0)
+Added Component: Designator=R2ch12(Panasonic_ERJ-A1BJ1R2U_0)
+Added Component: Designator=R2ch13(Panasonic_ERJ-A1BJ1R2U_0)
+Added Component: Designator=R2ch14(Panasonic_ERJ-A1BJ1R2U_0)
+Added Component: Designator=R2ch15(Panasonic_ERJ-A1BJ1R2U_0)
+Added Component: Designator=R2ch16(Panasonic_ERJ-A1BJ1R2U_0)
+Added Pin To Net: NetName=GND Pin=R2ch1-1
+Added Pin To Net: NetName=CH1 Pin=R2ch1-2
+Added Pin To Net: NetName=GND Pin=R2ch2-1
+Added Pin To Net: NetName=CH2 Pin=R2ch2-2
+Added Pin To Net: NetName=GND Pin=R2ch3-1
+Added Pin To Net: NetName=CH3 Pin=R2ch3-2
+Added Pin To Net: NetName=GND Pin=R2ch4-1
+Added Pin To Net: NetName=CH4 Pin=R2ch4-2
+Added Pin To Net: NetName=GND Pin=R2ch5-1
+Added Pin To Net: NetName=CH5 Pin=R2ch5-2
+Added Pin To Net: NetName=GND Pin=R2ch6-1
+Added Pin To Net: NetName=CH6 Pin=R2ch6-2
+Added Pin To Net: NetName=GND Pin=R2ch7-1
+Added Pin To Net: NetName=CH7 Pin=R2ch7-2
+Added Pin To Net: NetName=GND Pin=R2ch8-1
+Added Pin To Net: NetName=CH8 Pin=R2ch8-2
+Added Pin To Net: NetName=GND Pin=R2ch9-1
+Added Pin To Net: NetName=CH9 Pin=R2ch9-2
+Added Pin To Net: NetName=GND Pin=R2ch10-1
+Added Pin To Net: NetName=CH10 Pin=R2ch10-2
+Added Pin To Net: NetName=GND Pin=R2ch11-1
+Added Pin To Net: NetName=CH11 Pin=R2ch11-2
+Added Pin To Net: NetName=GND Pin=R2ch12-1
+Added Pin To Net: NetName=CH12 Pin=R2ch12-2
+Added Pin To Net: NetName=GND Pin=R2ch13-1
+Added Pin To Net: NetName=CH13 Pin=R2ch13-2
+Added Pin To Net: NetName=GND Pin=R2ch14-1
+Added Pin To Net: NetName=CH14 Pin=R2ch14-2
+Added Pin To Net: NetName=GND Pin=R2ch15-1
+Added Pin To Net: NetName=CH15 Pin=R2ch15-2
+Added Pin To Net: NetName=GND Pin=R2ch16-1
+Added Pin To Net: NetName=CH16 Pin=R2ch16-2
+Added Member To Class: ClassName=6th design Member=Component R2ch1 ERJ-A1BJ1R2U
+Added Member To Class: ClassName=6th design Member=Component R2ch2 ERJ-A1BJ1R2U
+Added Member To Class: ClassName=6th design Member=Component R2ch3 ERJ-A1BJ1R2U
+Added Member To Class: ClassName=6th design Member=Component R2ch4 ERJ-A1BJ1R2U
+Added Member To Class: ClassName=6th design Member=Component R2ch5 ERJ-A1BJ1R2U
+Added Member To Class: ClassName=6th design Member=Component R2ch6 ERJ-A1BJ1R2U
+Added Member To Class: ClassName=6th design Member=Component R2ch7 ERJ-A1BJ1R2U
+Added Member To Class: ClassName=6th design Member=Component R2ch8 ERJ-A1BJ1R2U
+Added Member To Class: ClassName=6th design Member=Component R2ch9 ERJ-A1BJ1R2U
+Added Member To Class: ClassName=6th design Member=Component R2ch10 ERJ-A1BJ1R2U
+Added Member To Class: ClassName=6th design Member=Component R2ch11 ERJ-A1BJ1R2U
+Added Member To Class: ClassName=6th design Member=Component R2ch12 ERJ-A1BJ1R2U
+Added Member To Class: ClassName=6th design Member=Component R2ch13 ERJ-A1BJ1R2U
+Added Member To Class: ClassName=6th design Member=Component R2ch14 ERJ-A1BJ1R2U
+Added Member To Class: ClassName=6th design Member=Component R2ch15 ERJ-A1BJ1R2U
+Added Member To Class: ClassName=6th design Member=Component R2ch16 ERJ-A1BJ1R2U
+Added Room: Name=step-up
